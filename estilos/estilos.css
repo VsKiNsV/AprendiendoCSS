@@ -46,3 +46,12 @@ ul#nav li.active a {
 .articulo h2 {
     font-style: oblique;
 }
+.noticia {
+background-color: gray;
+padding: 2rem;
+margin: 1rem;
+border-radius: 0.5rem;
+min-width: 40%;
+display: inline-block;
+
+}
